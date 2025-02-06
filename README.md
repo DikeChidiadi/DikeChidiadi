@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DikeChidiadi
-- 👀 I’m interested in Korean.
-- 🌱 I’m currently learning C#, HTML, CSS.
+- 👀 I'm interested in Formula 1.
+- 🌱 I’m currently learning Laravel with Tailwind CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
